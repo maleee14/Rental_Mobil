@@ -17,4 +17,33 @@
 ![Screenshot 2024-09-16 154747](https://github.com/user-attachments/assets/6338d56f-c315-4a7f-8d57-72876efe4979)
 
 ## Installation
+Clone Projek
+
+```bash
+  git clone https://github.com/maleee14/Rental_Mobil.git
+```
+
+Masuk ke folder dengan perintah
+
+```bash
+  cd nama_projek
+```
+
+-   Copy .env.example menjadi .env kemudia edit databasenya
+
+```bash
+    composer install
+```
+
+```bash
+    php artisan key:generate
+```
+
+```bash
+    php artisan storage:link
+```
+
+```bash
+    php artisan artisan migrate
+```
 
