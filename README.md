@@ -1,4 +1,4 @@
-# Project Rental Mobil
+# Project Rental Mobil Sederhana
 Aplikasi Rental Mobil Berbasis Web Yang Di Bangin Menggunakan Laravel 11 & Livewire V3 Dengan Template Mazer Admin
 
 ## Features
