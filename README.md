@@ -1,7 +1,14 @@
-# Project Rental Mobil Laravel 11
+# Project Rental Mobil
+Aplikasi Rental Mobil Berbasis Web Yang Di Bangin Menggunakan Laravel 11 & Livewire V3 Dengan Template Mazer Admin
 
 ## Features
-
+-   Registrasi serta Autentikasi User
+-   Management User
+-   Management Mobil
+-   Management Transaksi Rental
+-   Melihat Histori Transaksi
+-   Export PDF Laporan Transaksi
+  
 ## Interfaces
 - Halaman Dashboard
 ![Screenshot 2024-09-16 154550](https://github.com/user-attachments/assets/588d62ad-6b27-430a-9885-aeb5e7d05e1c)
@@ -23,13 +30,7 @@ Clone Projek
   git clone https://github.com/maleee14/Rental_Mobil.git
 ```
 
-Masuk ke folder dengan perintah
-
-```bash
-  cd nama_projek
-```
-
--   Copy .env.example menjadi .env kemudia edit databasenya
+Copy .env.example menjadi .env
 
 ```bash
     composer install
